@@ -27,7 +27,7 @@ Whether you're building chatbots, RAG-based systems, prompt engineering workflow
 
 | Project Name             | Description                                      | Status     |
 |--------------------------|--------------------------------------------------|------------|
-| Website Summarizer       | Summarize Website using Ollama and beautiful soup| ✅ Complete |
+| [Website Summarizer](https://github.com/EvanBinu/LLM-Projects/blob/main/summarize.ipynb)| Summarize Website using Ollama and beautiful soup| ✅ Complete |
 
 ---
 
